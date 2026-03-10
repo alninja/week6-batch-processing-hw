@@ -1,0 +1,6 @@
+*.parquet
+/output/
+*.csv
+.python-version
+main.py
+*.toml
